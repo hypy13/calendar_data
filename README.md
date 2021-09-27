@@ -1,4 +1,4 @@
-# calendar data
+# calendar events in JSON format
 georgian (میلادی) and lunar (قمری) calendar events data in json
 
 ### georgian data format (421 total)
