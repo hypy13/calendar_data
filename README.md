@@ -1,7 +1,7 @@
-# calendar_data
-global and lunar (قمری) calendar events data in json
+# calendar data
+georgian (میلادی) and lunar (قمری) calendar events data in json
 
-### global data format (421 total)
+### georgian data format (421 total)
 ```{
     {
         "month_name": "february",
